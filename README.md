@@ -1,39 +1,91 @@
 # 🚀 Unstop Daily Coding Challenge
 
-Welcome to my **Unstop Daily Coding Challenge** repository.
+Welcome to my **Unstop Daily Coding Challenge** repository!
 
-This repository contains my accepted solutions for the Unstop Problem of the Day (POTD). Each solution includes the source code, algorithm used, and time and space complexity.
+This repository contains my accepted solutions for the **Unstop Problem of the Day (POTD)**. Each solution includes the source code, problem summary, algorithm used, and complexity analysis.
 
-## Goal
+---
+
+## 🎯 Goal
 
 - Solve one Unstop coding problem every day.
-- Improve Data Structures and Algorithms skills.
-- Build consistency in problem-solving.
-- Learn optimized approaches for interview-level problems.
+- Strengthen Data Structures and Algorithms (DSA) concepts.
+- Build consistency through daily problem-solving.
+- Learn optimized algorithms and advanced data structures.
+- Improve problem-solving skills for coding interviews and competitive programming.
 
 ---
 
-## Progress
+## 📈 Progress
 
-| Day | Date | Problem | Language | Algorithm | Status |
-|-----|------|---------|----------|-----------|--------|
-| 01 | 17 Jul 2026 | The Dream Weaver's Resonance Loom | Python 3.11 | Dynamic Programming (Matrix Chain Multiplication) | ✅ Accepted |
-| 02 | 18 Jul 2026 | Lantern Grid of Diyari Festival | C++17 | Segment Tree Beats | ✅ Accepted |
+| Day | Date | Problem | Language | Algorithm | Difficulty | Status |
+|:---:|:----:|---------|----------|-----------|:----------:|:------:|
+| 01 | 17 Jul 2026 | The Dream Weaver's Resonance Loom | Python 3.11 | Dynamic Programming (Matrix Chain Multiplication) | Medium | ✅ Accepted |
+| 02 | 18 Jul 2026 | Lantern Grid of Diyari Festival | C++17 (GCC 13.2.0) | Segment Tree Beats | Hard | ✅ Accepted |
+| 03 | 19 Jul 2026 | Kingdom of Sealed Messengers | C++17 (GCC 13.2.0) | Kosaraju's Algorithm (Strongly Connected Components) | Hard | ✅ Accepted |
 
 ---
 
-## Languages Used
+## 💻 Languages Used
 
 - Python 3.11
 - C++17 (GCC 13.2.0)
 
 ---
 
-## Repository Structure
+## 🧠 Algorithms & Data Structures Covered
 
-Each folder contains:
+- Dynamic Programming
+- Graph Algorithms
+- Strongly Connected Components (SCC)
+- Segment Tree Beats
+- Depth-First Search (DFS)
+- Range Queries
+- Advanced Data Structures
 
-- Problem Summary
-- Solution
-- Algorithm
-- Complexity Analysis
+> This section will continue to grow as I solve more problems.
+
+---
+
+## 📂 Repository Structure
+
+```text
+unstop-daily-coding-challenge/
+│
+├── README.md
+│
+├── Day-01-The-Dream-Weavers-Resonance-Loom/
+│   ├── README.md
+│   └── solution.py
+│
+├── Day-02-Lantern-Grid-of-Diyari-Festival/
+│   ├── README.md
+│   └── solution.cpp
+│
+├── Day-03-Kingdom-of-Sealed-Messengers/
+│   ├── README.md
+│   └── solution.cpp
+│
+└── ...
+```
+
+Each day's folder contains:
+
+- 📄 Problem Summary
+- 💡 Solution Approach
+- ⚙️ Algorithm
+- ⏱️ Time Complexity
+- 💾 Space Complexity
+- 💻 Source Code
+
+---
+
+## 🌟 Purpose
+
+This repository serves as my personal learning journal and tracks my progress in solving coding challenges consistently. It also acts as a reference for revisiting algorithms, preparing for technical interviews, and improving competitive programming skills.
+
+---
+
+## ⭐ Connect
+
+If you find this repository helpful, consider giving it a ⭐ on GitHub!
