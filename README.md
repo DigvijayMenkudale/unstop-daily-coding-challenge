@@ -23,6 +23,7 @@ This repository contains my accepted solutions for the **Unstop Problem of the D
 | 01 | 17 Jul 2026 | The Dream Weaver's Resonance Loom | Python 3.11 | Dynamic Programming (Matrix Chain Multiplication) | Medium | ✅ Accepted |
 | 02 | 18 Jul 2026 | Lantern Grid of Diyari Festival | C++17 (GCC 13.2.0) | Segment Tree Beats | Hard | ✅ Accepted |
 | 03 | 19 Jul 2026 | Kingdom of Sealed Messengers | C++17 (GCC 13.2.0) | Kosaraju's Algorithm (Strongly Connected Components) | Hard | ✅ Accepted |
+| 04 | 20 Jul 2026 | The Festival Drum Beat | C++17 (GCC 13.2.0) | Greatest Common Divisor (GCD) & Least Common Multiple (LCM) | Easy | ✅ Accepted |
 
 ---
 
@@ -40,6 +41,10 @@ This repository contains my accepted solutions for the **Unstop Problem of the D
 - Strongly Connected Components (SCC)
 - Segment Tree Beats
 - Depth-First Search (DFS)
+- Matrix Chain Multiplication
+- Number Theory
+- Greatest Common Divisor (GCD)
+- Least Common Multiple (LCM)
 - Range Queries
 - Advanced Data Structures
 
@@ -63,6 +68,10 @@ unstop-daily-coding-challenge/
 │   └── solution.cpp
 │
 ├── Day-03-Kingdom-of-Sealed-Messengers/
+│   ├── README.md
+│   └── solution.cpp
+│
+├── Day-04-The-Festival-Drum-Beat/
 │   ├── README.md
 │   └── solution.cpp
 │
