@@ -24,6 +24,7 @@ This repository contains my accepted solutions for the **Unstop Problem of the D
 | 02 | 18 Jul 2026 | Lantern Grid of Diyari Festival | C++17 (GCC 13.2.0) | Segment Tree Beats | Hard | ✅ Accepted |
 | 03 | 19 Jul 2026 | Kingdom of Sealed Messengers | C++17 (GCC 13.2.0) | Kosaraju's Algorithm (Strongly Connected Components) | Hard | ✅ Accepted |
 | 04 | 20 Jul 2026 | The Festival Drum Beat | C++17 (GCC 13.2.0) | Greatest Common Divisor (GCD) & Least Common Multiple (LCM) | Easy | ✅ Accepted |
+| 05 | 21 Jul 2026 | Ancient Archive Recovery | C++17 (GCC 13.2.0) | Binary Search Tree (BST) & Postorder Traversal | Medium | ✅ Accepted |
 
 ---
 
@@ -37,11 +38,16 @@ This repository contains my accepted solutions for the **Unstop Problem of the D
 ## 🧠 Algorithms & Data Structures Covered
 
 - Dynamic Programming
+- Matrix Chain Multiplication
 - Graph Algorithms
 - Strongly Connected Components (SCC)
-- Segment Tree Beats
 - Depth-First Search (DFS)
-- Matrix Chain Multiplication
+- Segment Tree Beats
+- Binary Search Tree (BST)
+- Binary Tree
+- Tree Traversal
+- Postorder Traversal
+- Recursion
 - Number Theory
 - Greatest Common Divisor (GCD)
 - Least Common Multiple (LCM)
@@ -72,6 +78,10 @@ unstop-daily-coding-challenge/
 │   └── solution.cpp
 │
 ├── Day-04-The-Festival-Drum-Beat/
+│   ├── README.md
+│   └── solution.cpp
+│
+├── Day-05-Ancient-Archive-Recovery/
 │   ├── README.md
 │   └── solution.cpp
 │
